@@ -7,7 +7,7 @@ A Python-based employee management system that interacts with a MySQL database t
 * Update employee details
 * Delete employees
 * Search for employees
-* Display all employees
+* Display all employee details
 
 **Installation:**
 1. Clone the repository: `git clone https://github.com/your-username/employee-management-system.git`
