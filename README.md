@@ -1,13 +1,11 @@
 # Employee Management System
 
-A Python-based employee management system that interacts with a MySQL database to store and manage employee information.
+A Python and MySQL-based system to manage employee records, including personal details, job information, and performance metrics.
 
-**Features:**
-* Add new employees
-* Update employee details
-* Delete employees
-* Search for employees
-* Display all employee details
+## Features
+- Employee record management
+- Database integration with MySQL
+- User-friendly interface
 
 **Installation:**
 1. Clone the repository: `git clone https://github.com/your-username/employee-management-system.git`
@@ -15,4 +13,8 @@ A Python-based employee management system that interacts with a MySQL database t
 3. Create a `db_config.py` file with your database credentials.
 
 **Usage:**
+Clone the repository and follow the instructions in the README to set up the database and run the system.
 Run `EMS.py` to start the application.
+
+## License
+This project is licensed under the MIT License.
