@@ -1,6 +1,5 @@
 # Employee Management System
 
-**Description:**
 A Python-based employee management system that interacts with a MySQL database to store and manage employee information.
 
 **Features:**
